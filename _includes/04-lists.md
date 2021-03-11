@@ -1,0 +1,6 @@
+- Programming
+- Elementary OS
+- TypeScript
+- Svelte
+- Gardening
+- Vala
